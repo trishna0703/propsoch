@@ -1,0 +1,700 @@
+{
+    "properties": [
+        {
+            "id": "1",
+            "name": "Sushant Lok 2, Gurgaon",
+            "views": 41172,
+            "likes": 382,
+            "rating": 5.0,
+            "period": "Mar 8 - 14",
+            "type": "Residential",
+            "images": [
+                "https://www.lionarcgroup.com/ast/uploads/2022/03/invest-in-real-estate.jpg",
+                "https://plus.unsplash.com/premium_photo-1682125930217-f8b6c0b0599d?q=80&w=1804&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661962915642-5c4ec00ed9a7?q=80&w=1913&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661962543909-16d8918db843?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "mostLiked": true,
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Gurgaon",
+                "country": "India",
+                "fullAddress": "287, NH 8, Sector 29, Gurugram, Haryana 122021",
+                "coordinates": {
+                    "lat": 28.4633994,
+                    "lng": 77.0607124
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Rainbow Heights, HSR",
+            "views": 64102,
+            "likes": 428,
+            "rating": 2.5,
+            "period": "Mar 9 - 14",
+            "type": "Residential",
+            "mostLiked": true,
+            "images": [
+                "https://images.unsplash.com/photo-1496320540980-6957e6d80966?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1715964301154-3012466ae09f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1521543387600-c745f8e83d77?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Bangalore",
+                "country": "India",
+                "fullAddress": "CPWD Quarters, HSR Layout, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+                "coordinates": {
+                    "lat": 12.9160966,
+                    "lng": 77.6483188
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Palm Meadows, Whitefield",
+            "views": 53218,
+            "likes": 412,
+            "rating": 4.8,
+            "period": "Mar 10 - 16",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Bangalore",
+                "country": "India",
+                "fullAddress": "SH - 35, 87/2A & 87/3 Whitefield, Whitefield - Hoskote Rd, Seegehalli, Whitefield, Bengaluru, Karnataka 560067",
+                "coordinates": {
+                    "lat": 12.9162588,
+                    "lng": 77.5697665
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "DLF Phase 5, Gurgaon",
+            "views": 60124,
+            "likes": 397,
+            "rating": 3.9,
+            "period": "Mar 12 - 18",
+            "type": "Commercial",
+            "mostLiked": true,
+            "images": [
+                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1736194029386-f78f8baeed39?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Gurgaon",
+                "country": "India",
+                "fullAddress": "DLF Phase 5, Sector 53, Gurugram, Haryana 122022",
+                "coordinates": {
+                    "lat": 28.4439945,
+                    "lng": 77.0889089
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Silver Oaks, Pune",
+            "views": 45218,
+            "likes": 345,
+            "rating": 4.7,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661964193692-061c64679d41?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661953036166-2620ffadb66d?q=80&w=1777&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1678963247800-f1299e0dce04?q=80&w=1912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Pune",
+                "country": "India",
+                "fullAddress": "Kopargaon - Shirdi - Ahmednagar - Pune Hwy, near Shell Petrol Pump, Wagholi, Pune, Maharashtra 412207",
+                "coordinates": {
+                    "lat": 18.4749695,
+                    "lng": 73.7335619
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Cirkle Stays, Pune",
+            "views": 45218,
+            "likes": 345,
+            "rating": 1.7,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1516281717304-181e285c6e58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVpbGRpbmd8ZW58MHwwfDB8fHww",
+                "https://plus.unsplash.com/premium_photo-1661964048425-ff09ffd17d1b?q=80&w=1959&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Pune",
+                "country": "India",
+                "fullAddress": "Kopargaon - Shirdi - Ahmednagar - Pune Hwy, near Shell Petrol Pump, Wagholi, Pune, Maharashtra 412207",
+                "coordinates": {
+                    "lat": 18.4749695,
+                    "lng": 73.7335619
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Isis - Trulive, Chennai",
+            "views": 45218,
+            "likes": 345,
+            "rating": 5,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "mostLiked": true,
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1661876449499-26de7959878f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG91c2VzfGVufDB8MHwwfHx8MA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Chennai",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Sushant Lok 2, Gurgaon",
+            "views": 41172,
+            "likes": 382,
+            "rating": 5.0,
+            "period": "Mar 8 - 14",
+            "type": "Residential",
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1661908377130-772731de98f6?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661877360520-f70603f7c0d8?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661962868900-5248bee20a97?q=80&w=1880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "mostLiked": true,
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Gurgaon",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Rainbow Heights, HSR",
+            "views": 64102,
+            "likes": 428,
+            "rating": 1,
+            "period": "Mar 9 - 14",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1496320540980-6957e6d80966?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1715964301154-3012466ae09f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1521543387600-c745f8e83d77?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Bangalore",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Palm Meadows, Whitefield",
+            "views": 53218,
+            "likes": 412,
+            "rating": 3.48,
+            "period": "Mar 10 - 16",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Bangalore",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "DLF Phase 5, Gurgaon",
+            "views": 60124,
+            "likes": 397,
+            "rating": 4.9,
+            "period": "Mar 12 - 18",
+            "type": "Commercial",
+            "images": [
+                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1736194029386-f78f8baeed39?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Gurgaon",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Silver Oaks, Pune",
+            "views": 45218,
+            "likes": 345,
+            "rating": 4.7,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "mostLiked": true,
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1678963247798-0944cf6ba34d?q=80&w=1939&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1678903964429-c79a63f14274?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+                "https://plus.unsplash.com/premium_photo-1678963248935-dc399bf567b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8",
+                "https://plus.unsplash.com/premium_photo-1678963247800-f1299e0dce04?q=80&w=1912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Pune",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Serenity Empire, Bangalore",
+            "views": 45218,
+            "likes": 345,
+            "rating": 4.7,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1469022563428-aa04fef9f5a2?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661964193692-061c64679d41?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661953036166-2620ffadb66d?q=80&w=1777&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1678963247800-f1299e0dce04?q=80&w=1912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Bangalore",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Cirkle Stays, Pune",
+            "views": 45218,
+            "likes": 345,
+            "rating": 1.7,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "images": [
+                "https://images.unsplash.com/photo-1516281717304-181e285c6e58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVpbGRpbmd8ZW58MHwwfDB8fHww",
+                "https://plus.unsplash.com/premium_photo-1661964048425-ff09ffd17d1b?q=80&w=1959&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Pune",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Market",
+                    "count": 1
+                },
+                {
+                    "type": "Metro",
+                    "count": 2
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                },
+                {
+                    "type": "Gym",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Isis - Trulive, Chennai",
+            "views": 45218,
+            "likes": 345,
+            "rating": 5,
+            "period": "Mar 11 - 17",
+            "type": "Residential",
+            "mostLiked": true,
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1661876449499-26de7959878f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG91c2VzfGVufDB8MHwwfHx8MA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661872791898-bd56129dee70?q=80&w=1820&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": {
+                "amount": "1.5",
+                "unit": "Cr",
+                "emiAvailable": true
+            },
+            "location": {
+                "city": "Chennai",
+                "country": "India",
+                "fullAddress": "JI. Griwiwiyi, Bekasi, Kec. Nusatara, Chennai",
+                "coordinates": {
+                    "lat": 13.0827,
+                    "lng": 80.2707
+                }
+            },
+            "amenities": [
+                {
+                    "type": "Presuite",
+                    "count": 2
+                },
+                {
+                    "type": "Stations",
+                    "count": 4
+                },
+                {
+                    "type": "Schools",
+                    "count": 2
+                }
+            ]
+        }
+    ]
+}
